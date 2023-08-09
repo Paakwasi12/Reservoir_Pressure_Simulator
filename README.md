@@ -1,5 +1,5 @@
 # Reservoir_Pressure_Simulator
-The code defines a class called PressureSolver. This class has methods for solving for the pressure distribution in a reservoir, as well as methods for plotting the well pressure.
+The code defines a class called PressureSolver. 
 
 The __init__ method of the PressureSolver class takes the following arguments:
 
